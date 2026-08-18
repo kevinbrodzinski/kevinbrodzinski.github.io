@@ -1,18 +1,18 @@
-# kevinbrodzinski.com — Launch Package
+# kevinbrodzinski.me — Launch Package
 
 This folder is the production web root. Deploy the **contents of this directory** to the root of your static hosting provider.
 
 ## Required before launch
 
-1. Attach the custom domain `kevinbrodzinski.com` in your hosting provider.
+1. Attach the custom domain `kevinbrodzinski.me` in your hosting provider.
 2. Configure the DNS records exactly as your host specifies. Do not copy generic A/CNAME values from another provider.
-3. Make `https://kevinbrodzinski.com/` the canonical hostname. Redirect `www.kevinbrodzinski.com` to the apex domain (or the reverse, if you later choose www) with a permanent redirect.
+3. Make `https://kevinbrodzinski.me/` the canonical hostname. Redirect `www.kevinbrodzinski.me` to the apex domain (or the reverse, if you later choose www) with a permanent redirect.
 4. Enable automatic HTTPS/TLS and force HTTPS after the certificate is active.
 5. Confirm these production URLs return `200`: `/`, `/favicon.svg`, `/apple-touch-icon.png`, `/og-image.png`, `/robots.txt`, `/sitemap.xml`, `/site.webmanifest`, and `/.well-known/security.txt`.
 6. Test the site at desktop, tablet, and phone widths after deployment.
 7. Verify the résumé download, command palette, recruiter mode, email link, and LinkedIn link on the live domain.
-8. Confirm the social preview after deployment. Open Graph metadata points to `https://kevinbrodzinski.com/og-image.png`.
-9. Submit `https://kevinbrodzinski.com/sitemap.xml` to Google Search Console after domain verification.
+8. Confirm the social preview after deployment. Open Graph metadata points to `https://kevinbrodzinski.me/og-image.png`.
+9. Submit `https://kevinbrodzinski.me/sitemap.xml` to Google Search Console after domain verification.
 
 ## Hosting notes
 
@@ -23,7 +23,7 @@ This folder is the production web root. Deploy the **contents of this directory*
 
 ## Canonical identity
 
-- Public site: `https://kevinbrodzinski.com/`
+- Public site: `https://kevinbrodzinski.me/`
 - LinkedIn: `https://www.linkedin.com/in/kevin-brodzinski`
 - Contact: `kevinpbrodzinski@gmail.com`
 

@@ -1,9 +1,9 @@
 # KevinBrodzinski.com — Public Launch Checklist
 
 ## Required before announcing the site
-- [ ] Point `kevinbrodzinski.com` DNS to the chosen static host.
+- [ ] Point `kevinbrodzinski.me` DNS to the chosen static host.
 - [ ] Enable HTTPS and confirm a valid certificate.
-- [ ] Redirect `www.kevinbrodzinski.com` permanently to `https://kevinbrodzinski.com/`.
+- [ ] Redirect `www.kevinbrodzinski.me` permanently to `https://kevinbrodzinski.me/`.
 - [ ] Upload this directory with `index.html` at the web root.
 - [ ] Confirm `/research/` and `/patents/` return HTTP 200.
 - [ ] Confirm the 90-second hiring view opens from `/?hiring=1`.

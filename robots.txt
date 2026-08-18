@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kevinbrodzinski.com/sitemap.xml
+Sitemap: https://kevinbrodzinski.me/sitemap.xml
