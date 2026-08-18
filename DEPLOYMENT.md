@@ -8,7 +8,7 @@ This folder is the production web root. Deploy the **contents of this directory*
 2. Configure the DNS records exactly as your host specifies. Do not copy generic A/CNAME values from another provider.
 3. Make `https://kevinbrodzinski.me/` the canonical hostname. Redirect `www.kevinbrodzinski.me` to the apex domain (or the reverse, if you later choose www) with a permanent redirect.
 4. Enable automatic HTTPS/TLS and force HTTPS after the certificate is active.
-5. Confirm these production URLs return `200`: `/`, `/favicon.svg`, `/apple-touch-icon.png`, `/og-image.png`, `/robots.txt`, `/sitemap.xml`, `/site.webmanifest`, and `/.well-known/security.txt`.
+5. Confirm these production URLs return `200`: `/`, `/work/`, `/favicon.svg`, `/apple-touch-icon.png`, `/og-image.png`, `/robots.txt`, `/sitemap.xml`, `/site.webmanifest`, and `/.well-known/security.txt`.
 6. Test the site at desktop, tablet, and phone widths after deployment.
 7. Verify the résumé download, command palette, recruiter mode, email link, and LinkedIn link on the live domain.
 8. Confirm the social preview after deployment. Open Graph metadata points to `https://kevinbrodzinski.me/og-image.png`.

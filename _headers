@@ -22,3 +22,6 @@
 
 /patents/og-image.png
   Cache-Control: public, max-age=86400
+
+/work/og-image.png
+  Cache-Control: public, max-age=86400

@@ -5,7 +5,7 @@
 - [ ] Enable HTTPS and confirm a valid certificate.
 - [ ] Redirect `www.kevinbrodzinski.me` permanently to `https://kevinbrodzinski.me/`.
 - [ ] Upload this directory with `index.html` at the web root.
-- [ ] Confirm `/research/` and `/patents/` return HTTP 200.
+- [ ] Confirm `/research/`, `/patents/`, and `/work/` return HTTP 200.
 - [ ] Confirm the 90-second hiring view opens from `/?hiring=1`.
 - [ ] Test resume download on desktop and mobile.
 - [ ] Test email and LinkedIn links.
