@@ -1,0 +1,19 @@
+KevinBrodzinski.com Public Launch Candidate
+Generated: 2026-08-17
+
+VALIDATION
+- index.html / duplicate_ids: PASS
+- index.html / bad_local_links: PASS
+- research/index.html / duplicate_ids: PASS
+- research/index.html / bad_local_links: PASS
+- patents/index.html / duplicate_ids: PASS
+- patents/index.html / bad_local_links: PASS
+- JSON-LD parse: PASS
+- web manifest parse: PASS
+- query-addressable hiring view: PRESENT
+- research/patent hiring lanes: PRESENT
+- page-specific Open Graph cards: PRESENT
+- public build/version labels: not introduced
+
+LAUNCH STATUS
+Static package is ready to attach to a host. Live DNS, HTTPS, redirect, real-device, social-card, and search-index verification remain external launch checks.
